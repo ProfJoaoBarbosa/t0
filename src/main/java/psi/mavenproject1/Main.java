@@ -7,8 +7,8 @@ package psi.mavenproject1;
 
 /**
  *
- * @author Joao
- * @version 1.0
+ * @author Joao Barbosa
+ * @version 1.1
  * 
  */
 public class Main {
